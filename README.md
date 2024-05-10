@@ -1,5 +1,6 @@
 # DATA VISUALIZATION AND EXPLORATION: 
-C:\Users\Green Events\Desktop\Phonepe\phonepe img.jpg
+![phonepe img](https://github.com/TamizHari/Phonepe-pulse-Data-Visualization-proj/assets/164135407/2a91d382-16d0-4a9b-b816-162ed854e255)
+
 ## Introduction
 
 Welcome to PhonePe Pulse, where data meets innovation! Our interactive web application offers a captivating exploration of over 2000+ Crore transactions spanning across the vibrant landscape of India. As PhonePe boasts a commanding 45% market share, delve into a treasure trove of invaluable insights into the digital payment trends shaping the nation. Explore freely, download reports, and embark on an enlightening journey through India's digital financial landscape, all available on the PhonePe Pulse website and GitHub.
