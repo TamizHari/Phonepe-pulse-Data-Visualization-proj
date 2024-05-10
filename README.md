@@ -105,6 +105,8 @@ To create a colorful and insightful dashboard, I've used Plotly libraries in Pyt
 ### Step 6: Data Retrieval
 Finally, if needed, use the "mysql-connector-python" library to connect to the MySQL database and fetch the data into a Pandas dataframe.
 
+####### THANK YOU !
+
 
 
 
